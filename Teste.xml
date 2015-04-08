@@ -1,0 +1,1294 @@
+
+<plays username="marcelodgt" userid="914907" total="251" page="2" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+<play id="13949841" date="2015-02-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Modo normal. Vitoria. 2/doenças erradicadas</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Quarantine Specialist" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Scientist" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13949834" date="2015-02-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Modo normal. Vitoria. 1 doença erradicada</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Researcher" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Dispatcher" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13949824" date="2015-02-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>
+Modo normal. Perdemos todas as fazendas. Sobrou uma familia
+</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13949815" date="2015-02-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13929355" date="2015-02-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Citadels" objecttype="thing" objectid="478">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="" color="" score="20" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="" color="" score="28" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="" color="" score="23" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="" color="" score="33" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="" score="30" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13929345" date="2015-02-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Green" score="21" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Pink" score="24" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13929358" date="2015-02-08" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Jogando com expansão multicolorida</comments>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="19" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="19" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="19" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="" score="19" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13911439" date="2015-02-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Masmorra de DADOS" objecttype="thing" objectid="162476">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Andreza Wonder" score="23" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="19" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13911424" date="2015-02-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Suspense: the Card Game" objecttype="thing" objectid="149621">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Yellow" score="13" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Red" score="9" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="3" color="Black" score="10" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13897319" date="2015-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Com expansão</comments>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="" score="20" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="20" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="20" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="" score="20" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13897076" date="2015-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="King of Tokyo" objecttype="thing" objectid="70323">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="Kraken" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="" color="The King" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="" color="CyberBunny" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="" color="Pandakai" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13892111" date="2015-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Masmorra de DADOS" objecttype="thing" objectid="162476">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>
+Derrotado por uma aparição. 2 runas e 31 pontos de XP. Se ganhasse da aparição, ganhava o jogo.
+</comments>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Leovis/Arkhan" score="15.16" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13897567" date="2015-02-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Derrotados pelo tempo. Morremos da doença preta</comments>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="Medic" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Contingency planner" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Scientist" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13889763" date="2015-02-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Carcassonne" objecttype="thing" objectid="822">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<comments>
+Traders and builders+inns and cathedrals+flying machine
+</comments>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="Black" score="124" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="" color="Blue" score="121" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="" color="Green" score="138" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="" color="Yellow" score="104" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13892113" date="2015-02-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Fim do jogo: acabaram as cartas</comments>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="" score="19" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="19" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="19" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="" score="19" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13892114" date="2015-02-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Fim do jogo: Acabaram as cartas</comments>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="" score="17" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="17" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="17" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="" score="17" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13892112" date="2015-02-05" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>
+Modo normal. Todas doenças curadas. 3 erradicadas. Faltaram 2 cubos da vermelha pra erradicar.
+</comments>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Medic" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Operations expert" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13881199" date="2015-02-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Citadels" objecttype="thing" objectid="478">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="" score="24" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="" color="" score="28" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Lúcia" startposition="" color="" score="23" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="" color="" score="23" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13881986" date="2015-02-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>3 erros</comments>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13882313" date="2015-02-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>19 pontos</comments>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="2" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="1" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13881727" date="2015-02-04" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Small World" objecttype="thing" objectid="40692">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="2" color="" score="90" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="1" color="" score="107" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13875963" date="2015-02-03" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Citadels" objecttype="thing" objectid="478">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Vitoria no desempate 26 a 25</comments>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="" score="29" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="" color="" score="27" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="" color="" score="25" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="" color="" score="29" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13867142" date="2015-02-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Normal. 4epidemias</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Researcher" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Scientist" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Operations expert" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13867492" date="2015-02-02" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Researcher" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="Quarantine Specialist" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Operation expert" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Scientist" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13829982" date="2015-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>
+Derrota no outbrake. Curamos as doenças amarela e preta
+</comments>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Dispatcher" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Contingency planner" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Operation expert" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13829301" date="2015-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Vitória. 2 fazendas. 3 familias. Modo normal</comments>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Daisukey" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Kikuchiyo" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Gorobei" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13829554" date="2015-01-30" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>
+Derrota. Modo difícil. Todas as fazendas queimadas. 2 familias.
+</comments>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Daisuke" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Heihachi" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Gorobei" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13816652" date="2015-01-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Kanbei" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="Gorobei" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Katsushiro" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="Kyuzo" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13816801" date="2015-01-28" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Derrota. Perdemos todas as fazendas.</comments>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Kanbei" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="Gorobei" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Katsushiro" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="Kyuzo" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13788980" date="2015-01-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Munchkin" objecttype="thing" objectid="1927">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Jogo extremamente longo...</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="5" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="9" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="8" new="0" rating="0" win="0"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="6" color="" score="9" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="10" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Michel" startposition="3" color="" score="9" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13786427" date="2015-01-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Michel" startposition="3" color="" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13788948" date="2015-01-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Michel" startposition="3" color="" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13730594" date="2015-01-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Forbidden Island" objecttype="thing" objectid="65244">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+</subtypes>
+</item>
+<comments>Vitoria!! Modo lendário!</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Red / Engenheiro" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Yellow / Navegador" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13730589" date="2015-01-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>
+Vitoria sem perder nem uma fazenda ou familia. Modo normal.
+</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Katsushiro" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Kanbei" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13724715" date="2015-01-18" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Samurai Spirit" objecttype="thing" objectid="158900">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Sobraram 1 família e uma fazenda</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Kyuzu" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Kikuchiyo" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13690938" date="2015-01-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Masmorra de DADOS" objecttype="thing" objectid="162476">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Derrota - 3 runas mas só 23 pontos</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Andreza Wonder" score="16" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Navarro Dominio" score="7" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13691230" date="2015-01-17" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Masmorra de DADOS" objecttype="thing" objectid="162476">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Vitoria! 3 runas e 32 pontos!</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Hashim Rialto" score="16" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Tikal Warzoo" score="16" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13687577" date="2015-01-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Masmorra de DADOS" objecttype="thing" objectid="162476">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<comments>Modo cooperativo - 3 runas e 23 pontos Derrota</comments>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Alda Keyflower" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Tzork, o meio orc" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13683045" date="2015-01-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Citadels" objecttype="thing" objectid="478">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="" score="29" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Laura" startposition="" color="" score="25" new="0" rating="0" win="0"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="" color="" score="17" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Michel" startposition="" color="" score="21" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13683985" date="2015-01-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Citadels" objecttype="thing" objectid="478">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="" color="" score="16" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="" color="" score="18" new="0" rating="0" win="0"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="" color="" score="21" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Michel" startposition="" color="" score="32" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13683963" date="2015-01-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Munchkin" objecttype="thing" objectid="1927">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="9" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="10" new="0" rating="0" win="1"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="3" color="" score="7" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13675795" date="2015-01-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Masmorra de DADOS" objecttype="thing" objectid="162476">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Pandamic Hanabi" score="19" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Aldus Seasons" score="16" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13660960" date="2015-01-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Munchkin" objecttype="thing" objectid="1927">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="3" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="6" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="" score="10" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13661175" date="2015-01-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Munchkin" objecttype="thing" objectid="1927">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="8" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="10" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="" score="9" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13660958" date="2015-01-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Operations expert" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Dispatcher" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Contingency planner" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13647967" date="2015-01-11" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Munchkin" objecttype="thing" objectid="1927">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="10" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="7" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="" score="8" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13633613" date="2015-01-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="" score="18" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="19" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13633634" date="2015-01-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Jaipur" objecttype="thing" objectid="54043">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="" score="0" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="2" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13633750" date="2015-01-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Jaipur" objecttype="thing" objectid="54043">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="" score="0" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="2" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13633761" date="2015-01-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Quarantine Specialist" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Scientist" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13596935" date="2015-01-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="14" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="14" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="14" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Lúcia" startposition="5" color="" score="14" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="3" color="" score="14" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13596940" date="2015-01-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="20" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="20" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="20" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="3" color="" score="20" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13604314" date="2015-01-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Hanabi" objecttype="thing" objectid="98778">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="20" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="20" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="" score="20" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13596943" date="2015-01-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13591279" date="2015-01-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13592183" date="2015-01-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Elvira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13596944" date="2015-01-06" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Timeline: Diversity" objecttype="thing" objectid="131325">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Elvira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13445051" date="2014-12-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="The Builders: Middle Ages" objecttype="thing" objectid="144553">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="18" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="13" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="" score="10" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13444733" date="2014-12-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Forbidden Island" objecttype="thing" objectid="65244">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Mergulhador" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Navegador" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Piloto" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13444741" date="2014-12-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Forbidden Island" objecttype="thing" objectid="65244">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Engenheiro" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Piloto" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Mergulhador" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13445124" date="2014-12-26" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Zombie Dice" objecttype="thing" objectid="62871">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="14" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="16" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13428717" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="The Cook-off" objecttype="thing" objectid="116860">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="Yellow" score="24" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="4" color="Black" score="26" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Blue" score="24" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Green" score="29" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13430355" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Gloom" objecttype="thing" objectid="12692">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="Castle Slogar" score="-110" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Hemlock Hall" score="-55" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Blackwater Watch" score="-175" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13433167" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Jaipur" objecttype="thing" objectid="54043">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="0" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="2" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13429247" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="Scientist" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="4" color="Operations expert" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Researcher" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Dispatcher" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13429251" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Lúcia" startposition="2" color="Scientist" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="4" color="Contingency planner" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Quarantine Specialist" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Researcher" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13433173" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Small World" objecttype="thing" objectid="40692">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="93" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="102" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13433414" date="2014-12-25" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Small World" objecttype="thing" objectid="40692">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="80" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="134" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13406265" date="2014-12-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Forbidden Island" objecttype="thing" objectid="65244">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Navegador" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Explorador" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13406270" date="2014-12-22" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Forbidden Island" objecttype="thing" objectid="65244">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Engenheiro" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Explorador" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13399925" date="2014-12-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="King of Tokyo" objecttype="thing" objectid="70323">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="The King" score="20" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Kraken" score="14" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Alienoid" score="20" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13399926" date="2014-12-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="King of Tokyo" objecttype="thing" objectid="70323">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="The King" score="15" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Kraken" score="20" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Alienoid" score="8" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13399927" date="2014-12-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Researcher" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Contingency planner" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Medic" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13399928" date="2014-12-21" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Dispatcher" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Contingency planner" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Researcher" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13386624" date="2014-12-20" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Medic" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Dispatcher" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Contingency planner" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13376958" date="2014-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Yellow" score="12" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Red" score="14" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Green" score="16" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13377820" date="2014-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Forbidden Island" objecttype="thing" objectid="65244">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameimplementation"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Pilot" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Messenger" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13377821" date="2014-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Medic" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Researcher" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13377827" date="2014-12-19" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Scientist" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Researcher" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13360721" date="2014-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="The Cook-off" objecttype="thing" objectid="116860">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="White" score="27" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="4" color="Red" score="26" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Black" score="33" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Blue" score="26" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13360501" date="2014-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Dispatcher" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Contingency planner" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Medic" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13360502" date="2014-12-16" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Researcher" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Medic" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Contingency planner" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13355189" date="2014-12-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Carcassonne" objecttype="thing" objectid="822">
+<subtypes>
+<subtype value="boardgame"/>
+<subtype value="boardgameintegration"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Yellow" score="73" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="Blue" score="61" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Black" score="29" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="Red" score="60" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13355273" date="2014-12-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="King of Tokyo" objecttype="thing" objectid="70323">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Cyber Bunny" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="4" color="Alienoid" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="The King" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Lúcia" startposition="3" color="Gigazaur" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13355406" date="2014-12-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Pandemic" objecttype="thing" objectid="30549">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Scientist" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Researcher" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13354854" date="2014-12-15" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Zombie Dice" objecttype="thing" objectid="62871">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="" score="8" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="18" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13353794" date="2014-12-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="The Cook-off" objecttype="thing" objectid="116860">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Black" score="25" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="4" color="Green" score="34" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="White" score="33" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Yellow" score="33" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13353793" date="2014-12-14" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Green" score="15" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Laura" startposition="4" color="Red" score="14" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Pink" score="9" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Renata" startposition="3" color="Yellow" score="9" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13331965" date="2014-12-13" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Pink" score="18" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Yellow" score="19" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13331975" date="2014-12-13" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="Pink" score="20" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Yellow" score="19" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13327629" date="2014-12-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Green" score="13" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Blue" score="17" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13327631" date="2014-12-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Green" score="17" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Blue" score="15" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13327643" date="2014-12-12" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Eight-Minute Empire" objecttype="thing" objectid="131366">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Toninho" startposition="2" color="Green" score="20" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Blue" score="22" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13318303" date="2014-12-10" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Catan" objecttype="thing" objectid="13">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Renata" startposition="2" color="Orange" score="3" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="Red" score="10" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Toninho" startposition="3" color="Blue" score="6" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13294672" date="2014-12-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Coup" objecttype="thing" objectid="131357">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Oquendo" startposition="3" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Yusuke" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13294673" date="2014-12-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Coup" objecttype="thing" objectid="131357">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Oquendo" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Yusuke" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13294674" date="2014-12-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Coup" objecttype="thing" objectid="131357">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Oquendo" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Yusuke" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="1"/>
+</players>
+</play>
+<play id="13294675" date="2014-12-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Coup" objecttype="thing" objectid="131357">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Oquendo" startposition="3" color="" score="" new="0" rating="0" win="1"/>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Yusuke" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13294676" date="2014-12-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Coup" objecttype="thing" objectid="131357">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="0"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Yusuke" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="1"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+<play id="13294678" date="2014-12-07" quantity="1" length="0" incomplete="0" nowinstats="0" location="">
+<item name="Coup" objecttype="thing" objectid="131357">
+<subtypes>
+<subtype value="boardgame"/>
+</subtypes>
+</item>
+<players>
+<player username="" userid="0" name="Laura" startposition="2" color="" score="" new="0" rating="0" win="1"/>
+<player username="marcelodgt" userid="914907" name="Marcelo" startposition="1" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Taci" startposition="4" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Yusuke" startposition="6" color="" score="" new="0" rating="0" win="0"/>
+<player username="" userid="0" name="Samira" startposition="5" color="" score="" new="0" rating="0" win="0"/>
+<player username="andreoquendo" userid="1012464" name="Oquendo" startposition="3" color="" score="" new="0" rating="0" win="0"/>
+</players>
+</play>
+</plays>

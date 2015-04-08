@@ -31,8 +31,8 @@ function wichGame($conn, $id)
 	// for ($i=1; $i <= count($players) ; $i++) 
 	// { 
 		echo "<br><br>Jogos que ".$players[$id]." jogou: <br>";
-		$sqlWichGame = "select distinct c.gameName bg from points pts JOIN players plr ON pts.playerId = plr.id 
-						JOIN plays p ON p.playId = pts.playId JOIN collection c ON c.bggId = p.gameId where plr.id = ".$id;
+		$sqlWichGame = "select distinct c.bggId bg from points pts JOIN players plr ON pts.playerId = plr.id 
+						JOIN plays p ON p.playId = pts.playId JOIN collection c ON c.bggId = p.gameId where plr.id = ".$id. " order by bggId";
 		$resulWichGame = $conn->query($sqlWichGame);
 
 		if($resulWichGame->num_rows > 0)
@@ -54,10 +54,10 @@ function winsPerGame($conn, $id)
 {
 	$players = playerInfo($conn);
 	echo "<br><br>Vitórias de ".$players[$id]." em cada jogo: <br>";
-	$sqlWinGame = "select distinct c.gameName bg, count(p.playId) Win from points pts JOIN players plr ON pts.playerId = plr.id 
+	$sqlWinGame = "select distinct c.bggId bg, count(p.playId) Win from points pts JOIN players plr ON pts.playerId = plr.id 
 					JOIN plays p ON p.playId = pts.playId 
 					JOIN collection c ON c.bggId = p.gameId where plr.id = ".$id." and pts.winner=1 
-					group by p.gameId order by bg asc"; 
+					group by p.gameId order by bg asc , c.bggId"; 
 
 	$resultWinsPerGame = $conn->query($sqlWinGame);
 
@@ -79,8 +79,8 @@ function playsPerGame($conn, $id)
 {
 	$players = playerInfo($conn);
 	echo "<br><br>Partidas de ".$players[$id]." em cada jogo: <br>";
-	$sqlPlayerPerGame = "select distinct c.gameName bg, count(p.playId) numberOfPlays from points pts JOIN players plr ON pts.playerId = plr.id 
-				   JOIN plays p ON p.playId = pts.playId JOIN collection c ON c.bggId = p.gameId where plr.id = ".$id." group by p.gameId order by bg asc";
+	$sqlPlayerPerGame = "select distinct c.bggId bg, count(p.playId) numberOfPlays from points pts JOIN players plr ON pts.playerId = plr.id 
+				   JOIN plays p ON p.playId = pts.playId JOIN collection c ON c.bggId = p.gameId where plr.id = ".$id." group by p.gameId order by bg asc, c.bggId";
 	$resultPlaysPerGame = $conn->query($sqlPlayerPerGame);
 
 	if($resultPlaysPerGame->num_rows > 0)
@@ -102,8 +102,9 @@ function ratioPerGame($conn, $id)
 
 
 }
+//var_dump(playerInfo($conn));
 wichGame($conn,4);
 playsPerGame($conn,4);
- winsPerGame($conn,4);
+winsPerGame($conn,4);
 
 ?>
