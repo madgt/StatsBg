@@ -1,0 +1,48 @@
+- jogos mais jogados
+- maior vencedor em 1 jogo (ratio)
+- Maior vencedor de todos os jogos (ratio)
+- estatisticas de jogador por data
+- jogo mais jogador por uma pessoa
+- Maior numero de vitorias consecutivas (jogos diferentes e mesmo jogo)
+- Forma do jogador nos ultimos cinco jogos ( V:vitoria - D:derrota - C:cooperativo - E:empate)
+
+
+Coleçao e Wishlist
+
+- Mostrar Jogo Co-Op
+- Mostrar duas listas
+- Mostrar jogos mais jogados
+- Mostrar ultimos cinco jogos jogados
+- Ranking Pessoal
+- Ranking BGG
+
+
+Jogadores
+
+- Mostrar lista dos jogadores
+- Tabela geral com jogos, partidas, vitórias e Ratio Por jogo e total
+
+- Individual de cada jogador
+	Forma do jogador
+	Lista das cinco ultimas partidas
+
+Partidas
+
+ - lista de Partidas Por jogo por data
+ - Inicio: Mostrar 5 ultimos partidas
+ - 
+
+
+Pagina Inicial
+
+ - Ultima Partida
+ - Maior Vencedor
+ - Top 5 jogos
+ - Ultimas 5 partidas e respectivos ganhadores
+ - FunFacts
+
+ - Grupos de Jogos
+ Familia
+ Familia + Laura
+ Michel e Oquendo
+ Djinn

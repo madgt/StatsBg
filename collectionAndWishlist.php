@@ -12,21 +12,26 @@ $njogos = $xml['totalitems'];
 for ($i=0; $i < $njogos ; $i++) 
 { 
 	
-
+	$coop = 0;
 	$bggId = $xml->item[$i]["objectid"];
 	$gameName = $xml->item[$i]->name;
+	$status = $xml->item[$i]->status['own'];
+	$coopGames = array('Escape: The Curse of the Temple', 'Hanabi', 'A Ilha Proibida', 'Masmorra de DADOS', 'Pandemic', 'Samurai Spirit');
+	//setar Co-op para jogos cooperativos
+	
 	$priority = $xml->item[$i]->status['wishlistpriority'];
 	$numOfPlays = $xml->item[$i]->numplays;
 	if ($xml->item[$i]->status['own'] == 1) {
  		//colecao
  		//oldGame?
+ 		echo $status."<BR>";
 		$sql = "select * from Collection where bggId = ".$bggId;
 		$OldGame = $conn->query($sql);
 		if($OldGame->num_rows > 0)
 			{
 				while($row = $OldGame->fetch_assoc())
 				{
-					$sqlUpdateCollection = "Update Collection set gameName='".mysql_real_escape_string($gameName)."', bggId=".$bggId.",numOfPlays=".$numOfPlays." where bggId=".$bggId;
+					$sqlUpdateCollection = "Update Collection set gameName='".mysql_real_escape_string($gameName)."', bggId=".$bggId.",numOfPlays=".$numOfPlays.", coop=".$coop." where bggId=".$bggId;
 					if (mysqli_query($conn, $sqlUpdateCollection)) {
 					    echo "Record <strong>collection</strong> updated successfully<BR>";
 					} else {
@@ -37,7 +42,7 @@ for ($i=0; $i < $njogos ; $i++)
 			
 	 		else
 	 		{
-	 			$sqlColecao = "Insert into Collection (gameName, bggId, numOfPlays) values ('".mysql_real_escape_string($gameName)."','".$bggId."',".$numOfPlays.")";
+	 			$sqlColecao = "Insert into Collection (gameName, bggId, numOfPlays, coop) values ('".mysql_real_escape_string($gameName)."','".$bggId."',".$numOfPlays.",".$coop.")";
 				if (mysqli_query($conn, $sqlColecao)) {
 		    		echo "New record <strong>Collection</strong> created successfully<br />";
 				}
